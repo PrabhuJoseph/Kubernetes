@@ -1,0 +1,10 @@
+Ingress -> Configure rules to map url -> host, path
+
+Configures below service which helps to access a pod exposed service:
+
+ * ClusterIP - sharing a pod service within the app so that other pods can access
+ * NodePort - sharing a pod service external
+ * LoadBalancer - sharing external with LoadBalancer like NGINX
+
+https://www.youtube.com/watch?v=VicH6KojwCI
+ 

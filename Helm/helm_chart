@@ -1,0 +1,12 @@
+HELM Charts:
+
+   1. Package Manager - group of YAML files developed for a K8S Deployment that can be shared in
+      public / private registried that others can utilize.
+	 
+   2. Template Engine -> Have a template yaml file and values.yaml. Deploy multiple apps with
+      different values
+	  
+   3. Release Management - Tiller Server -> Note history of helm commands -> Rollback, Upgrade.
+   
+ 
+References: https://www.youtube.com/watch?v=80Ew_fsV4rM   
